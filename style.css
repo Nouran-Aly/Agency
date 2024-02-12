@@ -1,9 +1,3 @@
-/* @media(min-width: 768px){
-    .news-input{
-        width: 50%;
-    }
-} */
-
 body::before{
     content: "";
     display: block;
@@ -16,14 +10,6 @@ body::before{
     }
   }
 
-/* .card img{
-    max-width: 50%;
-    border-radius: 50%;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
-    -o-border-radius: 50%;
-} */
 .up-bottom {
     position: absolute;
     bottom: 62px;
